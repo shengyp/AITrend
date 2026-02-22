@@ -138,94 +138,94 @@
   - `` 麻省理工牛人解说数学体系  **[[Link](https://www.toutiao.com/i6743479520755450380/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617878041&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104081834010101502160911E0381E0&share_token=c954716a-47d9-4446-80f2-a09787655676&group_id=6743479520755450380)]** 
   
  
-  - `` 时隔16年，Science再次发布“全世界最前沿的125个科学问题”！  **[[Link](https://mp.weixin.qq.com/s/2KGyDH0WF58xbDVjoGHpfA)]**
+  - `2021.04.11` 时隔16年，Science再次发布“全世界最前沿的125个科学问题”！  **[[Link](https://mp.weixin.qq.com/s/2KGyDH0WF58xbDVjoGHpfA)]**
 
   
-  - `` 工程院院士李德毅：认知的三次革命，类脑的五条启发  **[[Link](https://mp.weixin.qq.com/s/Y8esD4fpjN9Y-zqxRmh1FA)]** 
+  - `2021.04.19` 工程院院士李德毅：认知的三次革命，类脑的五条启发  **[[Link](https://mp.weixin.qq.com/s/Y8esD4fpjN9Y-zqxRmh1FA)]** 
 
   
-  - `` 中国工程院院士李德毅：新一代人工智能如何从传统人工智能中脱颖而出  **[[Link](http://www.toutiao.com/i6954170973201465870/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1619180306&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104232018250101512082265703F6C5&share_token=a71e5d74-ef66-4a20-beab-5eda517e31a8&group_id=6954170973201465870&wid=1619276509431)]**
-
- 
-  - `` 2020年人工智能领域突破性工作  **[[Link](https://mp.weixin.qq.com/s/cGVjN0PvXPwsaS_xLhQ4-g)]**
-  
-  
-  - `` 蔡自兴院士：开源开放是人工智能发展新趋势  **[[Link](https://www.toutiao.com/i6957167974390170148/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1619919639&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210502094039010150201104028BE28B&share_token=246b7d66-0ac4-4637-9a9c-73a4ff76c2f9&group_id=6957167974390170148)]** 
-
-  
-  - `` Michael Jordan：人工智能研究的目标变了，不再是构建单个智能  **[[Link](https://mp.weixin.qq.com/s/WlWP-IqkB8uTSbrF_dDjYA)]** 
-
-  
-  - `` 2021机器学习研究风向是啥？MLP→CNN→Transformer→MLP！  **[[Link](https://mp.weixin.qq.com/s/AEXR8m6VoptJF4wOy0D42A)]** 
-
-  
-  - `` 无监督学习、多模态融合！腾讯、厦大联合发布2021十大人工智能趋势  **[[Link](https://mp.weixin.qq.com/s/bbTByBVTPkvjjTXuPwLzHA)]** 
-
-  
-  - `` 李开复：AI技术驱动的二十年五大预测  **[[Link](https://mp.weixin.qq.com/s/wffXm0TtZNtNx1Mv-PJldA)]** 
-
-  
-  - `` 有认知会推理！视觉大模型的未来不只靠表征  **[[Link](https://mp.weixin.qq.com/s/go4c3sMJLSI7W-1zKucH5g)]** 
-
-  
-  - `` 深度学习的未来！Hinton，Lecun和Bengio三巨头联手再发万字长文  **[[Link](https://mp.weixin.qq.com/s/go4c3sMJLSI7W-1zKucH5g)]** 
-
-  
-  - `` 陶大程：判断人工智能是否可信的“四把尺子”  **[[Link](https://mp.weixin.qq.com/s/Nxw6l8weDX4XovJ55lAmEQ)]** 
-
-  
-  - `` 深度学习三巨头共同发文，聊聊深度学习的过去、现在与未来  **[[Link](https://mp.weixin.qq.com/s/oN6DbXWmJoBuWf2eh8sF5w)]** 
-
-  
-  - `` NTT高级科学家：光子是深度学习的未来！光子有望替代电子计算机加速神经网络计算  **[[Link](https://mp.weixin.qq.com/s/6v4PbnGu-sk-0hQf3k_vaQ)]** 
-
-  
-  - `` 清华大学张钹：实现下一代人工智能的两个范式  **[[Link](https://mp.weixin.qq.com/s/jVomoo3Cvdrz03tdQxL7dQ)]** 
-
-  
-  - `` NLP≠NLU，机器学习无法理解人类语言  **[[Link](https://mp.weixin.qq.com/s/BYm54a6r1h4VqCSgxldsiQ)]**
-
-  
-  - `` PNAS论文：近30年来，人类社会的认知扭曲现象激增  **[[Link](https://mp.weixin.qq.com/s/JiGojVfXamHsXTsylPIjCw)]**
-  
-  
-  - `` 从技术到科学，中国AI向何处去？  **[[Link](https://mp.weixin.qq.com/s/KvdVjzgnVOWy5Wd0hxHAgQ)]**
-
-  
-  - `` 向量将死，哈希是AI未来  **[[Link](https://mp.weixin.qq.com/s/A6yH4UNnZt9gmyr4V_BvSA)]** 
+  - `2021.04.23` 院士观点|中国工程院院士李德毅：新一代人工智能如何从传统人工智能中脱颖而出  **[[Link](http://www.toutiao.com/i6954170973201465870/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1619180306&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104232018250101512082265703F6C5&share_token=a71e5d74-ef66-4a20-beab-5eda517e31a8&group_id=6954170973201465870&wid=1619276509431)]**
 
  
-  - `` 我国智能建造关键领域技术发展的战略思考丨中国工程科学  **[[Link](https://mp.weixin.qq.com/s/eJboWpmIRzG2WKW521yP-Q)]** 
+  - `2021.04.28` 2020年人工智能领域突破性工作  **[[Link](https://mp.weixin.qq.com/s/cGVjN0PvXPwsaS_xLhQ4-g)]**
+  
+  
+  - `2021.05.01` 蔡自兴院士：开源开放是人工智能发展新趋势  **[[Link](https://www.toutiao.com/i6957167974390170148/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1619919639&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210502094039010150201104028BE28B&share_token=246b7d66-0ac4-4637-9a9c-73a4ff76c2f9&group_id=6957167974390170148)]** 
 
   
-  - `` ACM与IEEE双Fellow、华人女计算机科学家周以真：可信 AI，未来可期  **[[Link](https://mp.weixin.qq.com/s/wtnAhnVIfSLhiJqJKRVHyQ)]**
+  - `2021.05.11` Michael Jordan：人工智能研究的目标变了，不再是构建单个智能  **[[Link](https://mp.weixin.qq.com/s/WlWP-IqkB8uTSbrF_dDjYA)]** 
 
   
-  - `` 新一代人工智能：从“感知智能”向“认知智能”转化  **[[Link](https://mp.weixin.qq.com/s/M0nhmK3WqvokxIaOkH3Khg)]** 
+  - `2021.05.23` 2021机器学习研究风向是啥？MLP→CNN→Transformer→MLP！  **[[Link](https://mp.weixin.qq.com/s/AEXR8m6VoptJF4wOy0D42A)]** 
 
   
-  - ``西电焦李成院士：从脑科学和认知科学到人工智能，我们能够从生物物理机理中得到什么启发？  **[[Link](https://mp.weixin.qq.com/s/o9ABVxQSpIia3nAA0QWR7g)]** 
+  - `2021.06.08` 无监督学习、多模态融合！腾讯、厦大联合发布2021十大人工智能趋势  **[[Link](https://mp.weixin.qq.com/s/bbTByBVTPkvjjTXuPwLzHA)]** 
 
   
-  - `` 算力≠智慧！ MIT教授抛出「意识来源」新理论：人类认知与计算根本没关系  **[[Link](https://mp.weixin.qq.com/s/AjXqMhtvjaFre0sUrv_zyQ)]** 
+  - `2021.06.26` 李开复：AI技术驱动的二十年五大预测  **[[Link](https://mp.weixin.qq.com/s/wffXm0TtZNtNx1Mv-PJldA)]** 
 
   
-  - `` IBM Watson「败走中国」内幕：认知推理远未成熟，却言必AI  **[[Link](https://mp.weixin.qq.com/s/5VaP5GCnZcUzRDucvD6U7g)]** 
+  - `2021.06.26` 有认知会推理！视觉大模型的未来不只靠表征  **[[Link](https://mp.weixin.qq.com/s/go4c3sMJLSI7W-1zKucH5g)]** 
 
   
-  - `` Google Jeff Dean | Pathways:下一代人工智能架构  **[[Link](https://mp.weixin.qq.com/s/dkQ30-OBvSZULI1wk3SlEg)]** 
+  - `` 深度学习的未来！Hinton，Lecun和Bengio三巨头联手再发万字长文  
 
   
-  - `` 比利时皇家科学院院士Luc De Raedt：从统计关系人工智能到神经符号计算  **[[Link](https://mp.weixin.qq.com/s/vrtqHiHtC1s3C3ScJ5ELgg)]** 
+  - `2021.07.09` 陶大程：判断人工智能是否可信的“四把尺子”  **[[Link](https://mp.weixin.qq.com/s/Nxw6l8weDX4XovJ55lAmEQ)]** 
 
   
-  - `` 深度梳理这10个国家的AI发展战略  **[[Link](https://mp.weixin.qq.com/s/V15x0u5MzJBSmAkqllTPpQ)]** 
+  - `2021.07.13` 深度学习三巨头共同发文，聊聊深度学习的过去、现在与未来  **[[Link](https://mp.weixin.qq.com/s/oN6DbXWmJoBuWf2eh8sF5w)]** 
 
   
-  - `` 浙大求是特聘教授吴飞：数据驱动与知识引导相互结合的智能计算  **[[Link](https://mp.weixin.qq.com/s/W2GBzeNa5i2g01DKKw4OXQ)]**
+  - `2021.07.17` NTT高级科学家：光子是深度学习的未来！光子有望替代电子计算机加速神经网络计算  **[[Link](https://mp.weixin.qq.com/s/6v4PbnGu-sk-0hQf3k_vaQ)]** 
 
   
-  - `` 温故而知新，6位顶级CV科学家聚首：计算机视觉中的深度学习方法vs传统方法  **[[Link](https://mp.weixin.qq.com/s/fTBfZac3kh29GpwhbC4rmQ)]** 
+  - `2021.08.09` 清华大学张钹：实现下一代人工智能的两个范式  **[[Link](https://mp.weixin.qq.com/s/jVomoo3Cvdrz03tdQxL7dQ)]** 
+
+  
+  - `2021.08.21` NLP≠NLU，机器学习无法理解人类语言  **[[Link](https://mp.weixin.qq.com/s/BYm54a6r1h4VqCSgxldsiQ)]**
+
+  
+  - `2021.08.22` PNAS论文：近30年来，人类社会的认知扭曲现象激增  **[[Link](https://mp.weixin.qq.com/s/JiGojVfXamHsXTsylPIjCw)]**
+  
+  
+  - `2021.08.24` 从技术到科学，中国AI向何处去？  **[[Link](https://mp.weixin.qq.com/s/KvdVjzgnVOWy5Wd0hxHAgQ)]**
+
+  
+  - `2021.10.05` 向量将死，哈希是AI未来  **[[Link](https://mp.weixin.qq.com/s/A6yH4UNnZt9gmyr4V_BvSA)]** 
+
+ 
+  - `2021.09.30` 我国智能建造关键领域技术发展的战略思考丨中国工程科学  **[[Link](https://mp.weixin.qq.com/s/eJboWpmIRzG2WKW521yP-Q)]** 
+
+  
+  - `2021.10.11` ACM与IEEE双Fellow、华人女计算机科学家周以真：可信 AI，未来可期  **[[Link](https://mp.weixin.qq.com/s/wtnAhnVIfSLhiJqJKRVHyQ)]**
+
+  
+  - `2021.10.19` 新一代人工智能：从“感知智能”向“认知智能”转化  **[[Link](https://mp.weixin.qq.com/s/M0nhmK3WqvokxIaOkH3Khg)]** 
+
+  
+  - `2021.10.27`西电焦李成院士：从脑科学和认知科学到人工智能，我们能够从生物物理机理中得到什么启发？  **[[Link](https://mp.weixin.qq.com/s/o9ABVxQSpIia3nAA0QWR7g)]** 
+
+  
+  - `2021.10.29` 算力≠智慧！ MIT教授抛出「意识来源」新理论：人类认知与计算根本没关系  **[[Link](https://mp.weixin.qq.com/s/AjXqMhtvjaFre0sUrv_zyQ)]** 
+
+  
+  - `2021.10.30` IBM Watson「败走中国」内幕：认知推理远未成熟，却言必AI  **[[Link](https://mp.weixin.qq.com/s/5VaP5GCnZcUzRDucvD6U7g)]** 
+
+  
+  - `2021.10.30` Google Jeff Dean | Pathways:下一代人工智能架构  **[[Link](https://mp.weixin.qq.com/s/dkQ30-OBvSZULI1wk3SlEg)]** 
+
+  
+  - `2021.11.09` 比利时皇家科学院院士Luc De Raedt：从统计关系人工智能到神经符号计算  **[[Link](https://mp.weixin.qq.com/s/vrtqHiHtC1s3C3ScJ5ELgg)]** 
+
+  
+  - `2021.11.28` 深度梳理这10个国家的AI发展战略  **[[Link](https://mp.weixin.qq.com/s/V15x0u5MzJBSmAkqllTPpQ)]** 
+
+  
+  - `2021.11.30` 浙大求是特聘教授吴飞：数据驱动与知识引导相互结合的智能计算  **[[Link](https://mp.weixin.qq.com/s/W2GBzeNa5i2g01DKKw4OXQ)]**
+
+  
+  - `2021.12.05` 温故而知新，6位顶级CV科学家聚首：计算机视觉中的深度学习方法vs传统方法  **[[Link](https://mp.weixin.qq.com/s/fTBfZac3kh29GpwhbC4rmQ)]** 
 
   
   - `` 2021研究前沿热度指数  **[[PDF](http://www.casisd.cn/zkcg/zxcg/202112/P020211208408812341333.pdf)]** 
@@ -234,25 +234,25 @@
   - `` 2021研究前沿  **[[PDF](http://www.casisd.cn/zkcg/zxcg/202112/P020211208408005795077.pdf)]**
 
   
-  - `` 2020 年人工智能几个重点领域，顶级国际学术会议分析报告  **[[Link](https://mp.weixin.qq.com/s/j9D4Tc0mDIHBeOb0VtpbJw)]** 
+  - `2021.12.13` 2020 年人工智能几个重点领域，顶级国际学术会议分析报告  **[[Link](https://mp.weixin.qq.com/s/j9D4Tc0mDIHBeOb0VtpbJw)]** 
 
   
-  - `` 徐宗本院士：人工智能的10个重大数理基础问题  **[[Link](https://mp.weixin.qq.com/s/2iNA8LCJizdqvzoPbWpPKA)]** 
+  - `2021.12.24` 徐宗本院士：人工智能的10个重大数理基础问题  **[[Link](https://mp.weixin.qq.com/s/2iNA8LCJizdqvzoPbWpPKA)]** 
 
   
-  - `` 报告  **[[PDF](http://scis.scichina.com/cn/2021/SSI-2021-0254.pdf)]**
+  - `2021.12.09` 人工智能的10个重大数理基础问题  **[[PDF](http://scis.scichina.com/cn/2021/SSI-2021-0254.pdf)]**
 
   
-  - `` 姚期智院士：数据、算法、算力为何是数字经济核心技术？  **[[Link](https://mp.weixin.qq.com/s/VcvhQ97y9X3DL8vp1ZImGg)]** 
+  - `2021.12.24` 姚期智院士：数据、算法、算力为何是数字经济核心技术？  **[[Link](https://mp.weixin.qq.com/s/VcvhQ97y9X3DL8vp1ZImGg)]** 
 
   
-  - `` 搞深度学习框架的那帮人，不是疯子，就是骗子  **[[Link](https://mp.weixin.qq.com/s/PQLQ0nN0fM4PPkhEUXfOmw)]** 
+  - `2021.02.26` 搞深度学习框架的那帮人，不是疯子，就是骗子  **[[Link](https://mp.weixin.qq.com/s/PQLQ0nN0fM4PPkhEUXfOmw)]** 
 
   
   - `` 2022 达摩院十大科技趋势  **[[Link](https://damo.alibaba.com/techtrends/2022)]**
   
   
-  - `` 新一代AI人才从哪里来，该往哪里去？| GAIR 2021院长论坛  **[[Link](https://mp.weixin.qq.com/s/_MYbUWP_oe0wzNd1RQ6IoA)]** 
+  - `2021.12.29` 新一代AI人才从哪里来，该往哪里去？| GAIR 2021院长论坛  **[[Link](https://mp.weixin.qq.com/s/_MYbUWP_oe0wzNd1RQ6IoA)]** 
 
   
   - `2022.01.01` P vs. NP 五十年：AI正在解决不可解问题  **[[Link](https://mp.weixin.qq.com/s/ZxjtJU_hrtEUrYnqSax16A)]** 
