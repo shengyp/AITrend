@@ -351,12 +351,12 @@
   - `` 数据库横向对比与前沿技术分析探讨  **[[Link](https://mp.weixin.qq.com/s/lYSaNLTNdf5W7QtM6goRzA)]** 
 
   
-  - `` Geoff Hinton最新访谈视频：谈人工智能革命…再一次  **[[Link](https://mp.weixin.qq.com/s/ay2pc8fAm1NQ3QPxwkMuAA)]** 
+  - `2022.06.02` Geoff Hinton最新访谈视频：谈人工智能革命…再一次  **[[Link](https://mp.weixin.qq.com/s/ay2pc8fAm1NQ3QPxwkMuAA)]** 
   
  
-  - `` 最新访谈：不出五年，我们就会破解大脑的运作机制，但不是通过反向传播  **[[Link](https://mp.weixin.qq.com/s/JR-IHkadS2EqF9s0CNMllg)]** 
+  - `2022.06.11` 最新访谈：不出五年，我们就会破解大脑的运作机制，但不是通过反向传播  **[[Link](https://mp.weixin.qq.com/s/JR-IHkadS2EqF9s0CNMllg)]** 
 
   
-  - `` 为什么Web3.0革命必将发生在中国？  **[[Link](https://mp.weixin.qq.com/s/JMXzsSbC4pvEz2ZUFg_qoA)]** 
+  - `2022.06.12` 为什么Web3.0革命必将发生在中国？  **[[Link](https://mp.weixin.qq.com/s/JMXzsSbC4pvEz2ZUFg_qoA)]** 
 
 
