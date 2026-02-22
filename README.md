@@ -255,100 +255,100 @@
   - `` 新一代AI人才从哪里来，该往哪里去？| GAIR 2021院长论坛  **[[Link](https://mp.weixin.qq.com/s/_MYbUWP_oe0wzNd1RQ6IoA)]** 
 
   
-  - `` P vs. NP 五十年：AI正在解决不可解问题  **[[Link](https://mp.weixin.qq.com/s/ZxjtJU_hrtEUrYnqSax16A)]** 
+  - `2022.01.01` P vs. NP 五十年：AI正在解决不可解问题  **[[Link](https://mp.weixin.qq.com/s/ZxjtJU_hrtEUrYnqSax16A)]** 
 
   
-  - `` 芯片设计的超高门槛，正在被AI「粉碎」  **[[Link](https://mp.weixin.qq.com/s/-2RWPyW-Jg53Hv4h_LEXQw)]** 
+  - `2022.01.01` 芯片设计的超高门槛，正在被AI「粉碎」  **[[Link](https://mp.weixin.qq.com/s/-2RWPyW-Jg53Hv4h_LEXQw)]** 
 
   
-  - `` 周志华，唐杰教授等专家，站在 2022，展望大模型的未来  **[[Link](https://mp.weixin.qq.com/s/NxLan1qVUutaOk27lprmvw)]** 
+  - `2022.01.02` 周志华，唐杰教授等专家，站在 2022，展望大模型的未来  **[[Link](https://mp.weixin.qq.com/s/NxLan1qVUutaOk27lprmvw)]** 
 
   
-  - `` AI for Science时代，知识何存？  **[[Link](https://mp.weixin.qq.com/s/RPgjsIPLnmvOL0zRFnUvQg)]**
+  - `2022.01.06` AI for Science时代，知识何存？  **[[Link](https://mp.weixin.qq.com/s/RPgjsIPLnmvOL0zRFnUvQg)]**
 
   
-  - `` “Web3之父”回答：Web3究竟是什么？  **[[Link](https://mp.weixin.qq.com/s/OZj4NY91pWrBdaQRTcZJAQ)]** 
+  - `2022.01.06` “Web3之父”回答：Web3究竟是什么？  **[[Link](https://mp.weixin.qq.com/s/OZj4NY91pWrBdaQRTcZJAQ)]** 
 
   
-  - `` Jeff Dean长文展望：2021年之后，机器学习领域的五大潜力趋势  **[[Link](https://mp.weixin.qq.com/s/c1ejcqPZyr98jY2QyeadOA)]** 
+  - `2022.01.12` Jeff Dean长文展望：2021年之后，机器学习领域的五大潜力趋势  **[[Link](https://mp.weixin.qq.com/s/c1ejcqPZyr98jY2QyeadOA)]** 
 
   
-  - `` Web 3.0生态全解析：颠覆性的技术变革  **[[Link](https://www.toutiao.com/article/7078869546806805028/?app=news_article&timestamp=1648808062&use_new_style=1&req_id=2022040118142101015814902622120FA1&group_id=7078869546806805028&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=b17e5d9c-eabe-4cff-ae77-768793d351c0&wid=1648809925647)]** 
+  - `2022.03.25` Web 3.0生态全解析：颠覆性的技术变革  **[[Link](https://www.toutiao.com/article/7078869546806805028/?app=news_article&timestamp=1648808062&use_new_style=1&req_id=2022040118142101015814902622120FA1&group_id=7078869546806805028&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=b17e5d9c-eabe-4cff-ae77-768793d351c0&wid=1648809925647)]** 
   
   
-  - `` 姚前：Web3.0，渐行渐近的新一代互联网  **[[Link](https://mp.weixin.qq.com/s/5rYWKnwLK-wjGkw5i11eSg)]**
+  - `2022.07.08` 姚前：Web3.0，渐行渐近的新一代互联网  **[[Link](https://mp.weixin.qq.com/s/5rYWKnwLK-wjGkw5i11eSg)]**
 
   
-  - `` Web 3.0世界中的嬉皮士、先知与造物主  **[[Link](https://mp.weixin.qq.com/s/uNCU6z-BsUs2LnEenuFKcw)]** 
+  - `2022.07.19` Web 3.0世界中的嬉皮士、先知与造物主  **[[Link](https://mp.weixin.qq.com/s/uNCU6z-BsUs2LnEenuFKcw)]** 
 
   
-  - `` Web3.0前瞻研究报告（2022年）  **[[Link](https://mp.weixin.qq.com/s/qbrRZxpYqY3Us_uWUlT9WQ)]** 
+  - `2022.09.25` Web3.0前瞻研究报告（2022年），56页pdf  **[[Link](https://mp.weixin.qq.com/s/qbrRZxpYqY3Us_uWUlT9WQ)]** 
 
  
-  - `` Web3与社交网络的未来 | 万字研讨实录（下）  **[[Link](https://mp.weixin.qq.com/s/smoDKm9DG3J1mRA9T-CmLA)]** 
+  - `2023.01.04` Web3与社交网络的未来 | 万字研讨实录（下）  **[[Link](https://mp.weixin.qq.com/s/smoDKm9DG3J1mRA9T-CmLA)]** 
 
   
-  - `` 当思想与机器融合：脑机接口与人类的现在、困境与未来  **[[Link](https://mp.weixin.qq.com/s/TLgWKQB5iHGXBrL7ttb6ZQ)]** 
+  - `2022.01.14` 当思想与机器融合：脑机接口与人类的现在、困境与未来  **[[Link](https://mp.weixin.qq.com/s/TLgWKQB5iHGXBrL7ttb6ZQ)]** 
 
   
-  - `` 医学影像AI新晋IEEE Fellow「大论道」：后深度学习时代的记录、风向与产学思考  **[[Link](https://mp.weixin.qq.com/s/xITvLtP9sMwArReE159ZAw)]**
+  - `2022.01.16` 医学影像AI新晋IEEE Fellow「大论道」：后深度学习时代的记录、风向与产学思考  **[[Link](https://mp.weixin.qq.com/s/xITvLtP9sMwArReE159ZAw)]**
 
   
-  - `` 年度回顾 | 2021年人工智能领域值得回味的资本事件  **[[Link](https://mp.weixin.qq.com/s/v31gl2rzQRgO_LBDV3CJyg)]** 
+  - `2022.01.18` 年度回顾 | 2021年人工智能领域值得回味的资本事件  **[[Link](https://mp.weixin.qq.com/s/v31gl2rzQRgO_LBDV3CJyg)]** 
 
   
-  - `` 2021年量子计算的研发现状与未来展望  **[[Link](https://mp.weixin.qq.com/s/XJiQjyTci2UXhvwdWnvBRg)]** 
+  - `2022.01.19` 2021年量子计算的研发现状与未来展望  **[[Link](https://mp.weixin.qq.com/s/XJiQjyTci2UXhvwdWnvBRg)]** 
 
   
-  - `` AMiner发布：2022年人工智能全球最具影响力学者榜单AI 2000  **[[Link](https://mp.weixin.qq.com/s/zIgPTdnqq4SCvdH8XvpmPA)]**
+  - `2022.01.25` AMiner发布：2022年人工智能全球最具影响力学者榜单AI 2000  **[[Link](https://mp.weixin.qq.com/s/zIgPTdnqq4SCvdH8XvpmPA)]**
 
   
-  - `` 一年一总结的NLP年度进展，2021年有哪些研究热点？  **[[Link](https://mp.weixin.qq.com/s/cQWtz87G-jpfmnbEtACRNw)]**
+  - `2022.01.26` 一年一总结的NLP年度进展，2021年有哪些研究热点？  **[[Link](https://mp.weixin.qq.com/s/cQWtz87G-jpfmnbEtACRNw)]**
 
   
-  - `` 百度研究院发布2022年十大科技趋势！以AI为灯、为桨，扬帆起航！  **[[Link](https://mp.weixin.qq.com/s/teaYTaQmaqXiMCOhdFw7mA)]**
+  - `2022.01.26` 百度研究院发布2022年十大科技趋势！以AI为灯、为桨，扬帆起航！  **[[Link](https://mp.weixin.qq.com/s/teaYTaQmaqXiMCOhdFw7mA)]**
 
   
-  - `` 图灵奖得主Yann LeCun最新访谈：人工智能面临的三大挑战  **[[Link](https://mp.weixin.qq.com/s/LP8XhCZ5fW8xVdGb7ZTcSQ)]**
+  - `2022.01.31` 图灵奖得主Yann LeCun最新访谈：人工智能面临的三大挑战  **[[Link](https://mp.weixin.qq.com/s/LP8XhCZ5fW8xVdGb7ZTcSQ)]**
 
   
-  - `` 2022年你应该知道的五大机器学习算法，解释型算法、降维算法榜上有名  **[[Link](https://mp.weixin.qq.com/s/Sq9uOhU2O9dOfiarVK7ozg?)]** 
+  - `2022.02.07` 2022年你应该知道的五大机器学习算法，解释型算法、降维算法榜上有名  **[[Link](https://mp.weixin.qq.com/s/Sq9uOhU2O9dOfiarVK7ozg?)]** 
 
   
-  - `` 万字长文！DeepMind科学家总结2021年的15个高能研究  **[[Link](https://mp.weixin.qq.com/s/ugdF-Q-d8ngKTrHF2vPA3A)]**
+  - `2022.02.12` 万字长文！DeepMind科学家总结2021年的15个高能研究  **[[Link](https://mp.weixin.qq.com/s/ugdF-Q-d8ngKTrHF2vPA3A)]**
   
   
-  - `` 《中国金融》｜姚前：Web3.0：渐行渐近的新一代互联网  **[[Link](https://mp.weixin.qq.com/s/KMOG0bdM5y8m3JfDDwBr1A)]**
+  - `2022.03.17` 《中国金融》｜姚前：Web3.0：渐行渐近的新一代互联网  **[[Link](https://mp.weixin.qq.com/s/KMOG0bdM5y8m3JfDDwBr1A)]**
 
 
-  - `` 创新工场首席科学家周明博士：认知智能的进展和思考  **[[Link](https://mp.weixin.qq.com/s/GXW4Ie8OKxywFQBQgz_FyQ)]** 
+  - `2022.03.24` 创新工场首席科学家周明博士：认知智能的进展和思考  **[[Link](https://mp.weixin.qq.com/s/GXW4Ie8OKxywFQBQgz_FyQ)]** 
 
   
-  - `` 谷歌下一代AI架构、Jeff Dean宣传大半年的Pathways终于有论文了  **[[Link](https://mp.weixin.qq.com/s/fmdCMSlu_L5xzdQLHxlBfw)]**
+  - `2022.03.29` 谷歌下一代AI架构、Jeff Dean宣传大半年的Pathways终于有论文了  **[[Link](https://mp.weixin.qq.com/s/fmdCMSlu_L5xzdQLHxlBfw)]**
   
   
-  - `` 2022年计算机视觉领域五大发展趋势  **[[Link](https://mp.weixin.qq.com/s/qm0W2WwSGJBL0JFBOrc8WA)]** 
+  - `2022.03.28` 2022年计算机视觉领域五大发展趋势  **[[Link](https://mp.weixin.qq.com/s/qm0W2WwSGJBL0JFBOrc8WA)]** 
 
   
-  - `` 2022年，值得关注的8大人工智能趋势  **[[Link](https://mp.weixin.qq.com/s/NRovm0D5gh5j7EeUXxBMjw)]**
+  - `2022.04.05` 2022年，值得关注的8大人工智能趋势  **[[Link](https://mp.weixin.qq.com/s/NRovm0D5gh5j7EeUXxBMjw)]**
 
   
   - `` 2022技术趋势（中文版）  **[[PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology/deloitte-cn-consulting-tech-trends-2022-zh-220408.pdf)]**
 
   
-  - `` 深度学习“开挂”十年，谷歌AI大牛Jeff Dean发文剖析并提出未来发展方向  **[[Link](https://mp.weixin.qq.com/s/0MnJ80WO_CbzTl8jny4pGQ)]**  
+  - `2022.04.22` 深度学习“开挂”十年，谷歌AI大牛Jeff Dean发文剖析并提出未来发展方向  **[[Link](https://mp.weixin.qq.com/s/0MnJ80WO_CbzTl8jny4pGQ)]**  
   
   
-  - `` 梅宏院士：如何构造人工群体智能  **[[Link](https://mp.weixin.qq.com/s/0zF9pmN7avJokm_s75Fq7g)]**  
+  - `2022.04.22` 梅宏院士：如何构造人工群体智能  **[[Link](https://mp.weixin.qq.com/s/0zF9pmN7avJokm_s75Fq7g)]**  
   
   
-  - `` 周志华：“数据、算法、算力” 人工智能三要素，在未来要加上“知识”！  **[[Link](https://mp.weixin.qq.com/s/oHMDslLMUycnpNTTztuFhA)]** 
+  - `2022.05.08` 周志华：“数据、算法、算力” 人工智能三要素，在未来要加上“知识”！  **[[Link](https://mp.weixin.qq.com/s/oHMDslLMUycnpNTTztuFhA)]** 
 
   
-  - `` 深度知识的6个维度：如何让人工智能真正理解世界？  **[[Link](https://mp.weixin.qq.com/s/H4AgvBsSrHd0brfKTmhk4A)]**  
+  - `2022.05.24` 深度知识的6个维度：如何让人工智能真正理解世界？  **[[Link](https://mp.weixin.qq.com/s/H4AgvBsSrHd0brfKTmhk4A)]**  
   
   
-  - `` 数据库横向对比与前沿技术分析探讨  **[[Link](https://mp.weixin.qq.com/s/lYSaNLTNdf5W7QtM6goRzA)]** 
+  - `2022.05.29` 数据库横向对比与前沿技术分析探讨  **[[Link](https://mp.weixin.qq.com/s/lYSaNLTNdf5W7QtM6goRzA)]** 
 
   
   - `2022.06.02` Geoff Hinton最新访谈视频：谈人工智能革命…再一次  **[[Link](https://mp.weixin.qq.com/s/ay2pc8fAm1NQ3QPxwkMuAA)]** 
