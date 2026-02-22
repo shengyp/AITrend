@@ -11,7 +11,7 @@
 
   - `2020.07.28` 科学成果≠商业成功：创业的科学家们还需关注这4件事 **[[Link](https://mp.weixin.qq.com/s/paCOs-6cytBNm4lPEcV-HQ)]**
 
-  - `2020.08.07` 国家五部委联合发布“AI标准顶层设计”：2021年明确、2023年初步建成 (附建设指南)  **[[Link](https://mp.weixin.qq.com/s/Th25_46eOTR8kbeR3TuVlA)]**
+  - `2020.08.07` 国家五部委联合发布“AI标准顶层设计”：2021年明确、2023年初步建成  **[[Link](https://mp.weixin.qq.com/s/Th25_46eOTR8kbeR3TuVlA)]**
 
   - `2020.08.14` 不止一年拿下青千、杰青、长江学者，这位教授回答清华学子AI两千问也是一流  **[[Link](https://mp.weixin.qq.com/s/OevJIPqklZGvLrbZdsaHOQ)]**
 
@@ -23,31 +23,31 @@
 
   - `2020.09.25` 清华张钹、北大朱松纯、南大周志华，他们都是……   **[[Link](https://mp.weixin.qq.com/s/5_liqz5SUGvmAtrxvwRVfg)]**
 
-  - `2021.02.23`  英美签署新协议，在人工智能领域展开合作，进一步对抗中国  **[[Link](https://mp.weixin.qq.com/s/kcyjG2m7e65NIF8kb_dIOA)]**
+  - `2020.10.04`  英美签署新协议，在人工智能领域展开合作，进一步对抗中国  **[[Link](https://mp.weixin.qq.com/s/kcyjG2m7e65NIF8kb_dIOA)]**
 
-  - `2021.02.23`  剑桥大学2020《AI全景报告》出炉  **[[Link](https://mp.weixin.qq.com/s/YQiqve7K9uOpZQzGB38sHQ)]**
+  - `2020.10.04`  剑桥大学2020《AI全景报告》出炉，177页ppt  **[[Link](https://mp.weixin.qq.com/s/YQiqve7K9uOpZQzGB38sHQ)]**
                                                                                                                   
-  - `2021.02.23`  清华张钹院士专刊文章：迈向第三代人工智能（全文收录）  **[[Link](http://scis.scichina.com/cn/2020/SSI-2020-0204.pdf)]**
+  - `2020.09.22`  清华张钹院士专刊文章：迈向第三代人工智能（全文收录）  **[[PDF](http://scis.scichina.com/cn/2020/SSI-2020-0204.pdf)]**
 
-  - `2021.02.23`  专访吴军：未来10年，AI的发展方向是应用，不会出现重大的理论突破  **[[Link](https://mp.weixin.qq.com/s/MxhdT4BaKpmxQd8OgXtSOA)]**
+  - `2020.10.19`  专访吴军：未来10年，AI的发展方向是应用，不会出现重大的理论突破  **[[Link](https://mp.weixin.qq.com/s/MxhdT4BaKpmxQd8OgXtSOA)]**
 
-  - `2021.02.23`  美国家人工智能安全委员会发布80项人工智能建议  **[[Link](https://www.secrss.com/articles/26363)]**
+  - `2020.10.09`  美国家人工智能安全委员会发布80项人工智能建议  **[[Link](https://www.secrss.com/articles/26363)]**
 
-  - `2021.02.23`  韩辉：国产操作系统的最大难题在于解决“生产关系”  **[[Link](https://mp.weixin.qq.com/s/rgVHVjm2q3w0UJB4AMV1KQ)]**
+  - `2020.10.21`  韩辉：国产操作系统的最大难题在于解决“生产关系”  **[[Link](https://mp.weixin.qq.com/s/rgVHVjm2q3w0UJB4AMV1KQ)]**
                                                                                                             
-  - `2021.02.23`  人工智能工程化、超级自动化...Gartner发布2021年重要战略科技趋势  **[[Link](https://mp.weixin.qq.com/s/dolc_HX4ppXvy3VLfpcbgg)]**
+  - `2020.10.21`  人工智能工程化、超级自动化...Gartner发布2021年重要战略科技趋势  **[[Link](https://mp.weixin.qq.com/s/dolc_HX4ppXvy3VLfpcbgg)]**
                                                                                                             
-  - `2021.02.23`  2021年人工智能的四大趋势  **[[Link](https://mp.weixin.qq.com/s/l8_1GGNiOX6EAlQx94L1pg)]**
+  - `2020.10.26`  2021年人工智能的四大趋势  **[[Link](https://mp.weixin.qq.com/s/l8_1GGNiOX6EAlQx94L1pg)]**
                                                                                                             
-  - `2021.02.23`  白宫即将出台人工智能新规，“轻触式”监管、保持美国在AI领域的领导地位  **[[Link](https://mp.weixin.qq.com/s/C8YZaX6OcTwAfacB3Qa9Ug)]**
+  - `2020.10.27`  白宫即将出台人工智能新规，“轻触式”监管、保持美国在AI领域的领导地位  **[[Link](https://mp.weixin.qq.com/s/C8YZaX6OcTwAfacB3Qa9Ug)]**
                                                                                                                                                                                                                    
-  - `2021.02.23`  硅谷教父John Hennessy：我们正站在计算机架构第五时代的门槛上  **[[Link](https://mp.weixin.qq.com/s/Zq3C98-v-E5M0xN6sC7hmQ)]**
+  - `2020.10.27`  硅谷教父John Hennessy：我们正站在计算机架构第五时代的门槛上  **[[Link](https://mp.weixin.qq.com/s/Zq3C98-v-E5M0xN6sC7hmQ)]**
 
-  - `2021.02.23`  预测：2021年，人工智能将大放异彩  **[[Link](https://mp.weixin.qq.com/s/XeDjpn0WKn73Br4lJpBxNg)]**
+  - `2020.11.01`  预测：2021年，人工智能将大放异彩  **[[Link](https://mp.weixin.qq.com/s/XeDjpn0WKn73Br4lJpBxNg)]**
 
-  - `2021.02.23`  AI助力顶尖人才竞争：全球首款基于知识图谱的智能人才服务产品发布  **[[Link](https://mp.weixin.qq.com/s/W85FnOU8QB4Jc2CsFOsJpw)]**
+  - `2020.11.02`  AI助力顶尖人才竞争：全球首款基于知识图谱的智能人才服务产品发布  **[[Link](https://mp.weixin.qq.com/s/W85FnOU8QB4Jc2CsFOsJpw)]**
 
-  - `2021.02.23`  张亚勤：智能产业新浪潮下的我们  **[[Link](https://mp.weixin.qq.com/s/4zj5NyCK-XXIzK1gJtkzyQ)]**
+  - `2020.11.02`  张亚勤：智能产业新浪潮下的我们  **[[Link](https://mp.weixin.qq.com/s/4zj5NyCK-XXIzK1gJtkzyQ)]**
 
   - `2020.11.05`  清华大学施路平：双脑驱动的人工通用智能   **[[LINK](https://mp.weixin.qq.com/s/mIsTrbQF9ADXE5oswixzSw)]**
 
@@ -55,66 +55,66 @@
 
   - `2020.11.05`  AI改变世界：一口气看完人工智能发展史  **[[Link](https://mp.weixin.qq.com/s/BbqY1QsxwZnQ1Ur5J9wBYA)]**
                                                                                                                                                                                               
-  - `2020.11.05`  重磅！全球人工智能最具创新力城市榜单发布，中国32个城市进入世界500强  **[[Link](https://mp.weixin.qq.com/s/4dxkEqOiLsRN_QA63MLX5w)]**
+  - `2020.11.23`  重磅！全球人工智能最具创新力城市榜单发布，中国32个城市进入世界500强  **[[Link](https://mp.weixin.qq.com/s/4dxkEqOiLsRN_QA63MLX5w)]**
 
-  - `2020.11.05`  八位AI学者论道：下一代机器学习的应走之路  **[[Link](https://mp.weixin.qq.com/s/Z5bR2X24dkwhzeBVbOtBKA)]**
+  - `2020.11.28`  八位AI学者论道：下一代机器学习的应走之路  **[[Link](https://mp.weixin.qq.com/s/Z5bR2X24dkwhzeBVbOtBKA)]**
 
-  - `2020.11.05`  中国人民大学赵鑫：AI 科研入坑指南  **[[Link](https://mp.weixin.qq.com/s/h00VmCi1E7IhIDCj7X1ZjQ)]** 
+  - `2020.11.30`  中国人民大学赵鑫：AI 科研入坑指南  **[[Link](https://mp.weixin.qq.com/s/h00VmCi1E7IhIDCj7X1ZjQ)]** 
 
-  - `2021.02.23`  【独家解读】Nature论文AlphaFold：AI推动科学发现  **[[Link](https://mp.weixin.qq.com/s/JGjrqxHnoD8t00v_RoKYFg)]**
+  - `2020.12.03`  【独家解读】Nature论文AlphaFold：AI推动科学发现  **[[Link](https://mp.weixin.qq.com/s/JGjrqxHnoD8t00v_RoKYFg)]**
 
-  - `2021.02.23`  史无前例的2020！《自然》十大科学人物出炉：李兰娟、张永振、谭德塞、福奇等人上榜  **[[Link](https://mp.weixin.qq.com/s/tSsSWoV1ktdDnDHaryn_xA)]**
+  - `2020.12.16`  史无前例的2020！《自然》十大科学人物出炉：李兰娟、张永振、谭德塞、福奇等人上榜  **[[Link](https://mp.weixin.qq.com/s/tSsSWoV1ktdDnDHaryn_xA)]**
 
-  - `2021.02.23`  陈左宁院士：人工智能模型和算法的七大发展趋势  **[[Link](https://mp.weixin.qq.com/s/Rk0SFRiYqhqp5ru5b3TmgA)]**
+  - ``陈左宁院士：人工智能模型和算法的七大发展趋势  **[[Link](https://mp.weixin.qq.com/s/Rk0SFRiYqhqp5ru5b3TmgA)]**
 
-  - `2021.02.23`  李飞飞、Judea Pearl等16位顶级科学家参与，一场推动AI前进的大辩论，2020 AI DEBATE 来了  **[[Link](https://mp.weixin.qq.com/s/nhuy1BPuYdirdTVRLRyzgA)]**
+  - `2020.12.23`  李飞飞、Judea Pearl等16位顶级科学家参与，一场推动AI前进的大辩论，2020 AI DEBATE 来了  **[[Link](https://mp.weixin.qq.com/s/nhuy1BPuYdirdTVRLRyzgA)]**
 
-  - `2021.02.23`  Nature：2021年最值得关注的科学事件  **[[Link](https://mp.weixin.qq.com/s/JnD5SMEDjrs_J6Iw9-X_3w)]**
+  - `2020.12.24`  Nature：2021年最值得关注的科学事件  **[[Link](https://mp.weixin.qq.com/s/JnD5SMEDjrs_J6Iw9-X_3w)]**
 
-  - `2021.02.23`  2020年度智谱·AI人工智能技术发展报告集（AI TR）（敬请收藏）  **[[Link](https://mp.weixin.qq.com/s/fj73YsrKXI78bZFN6rx3vA)]** 
+  - `2020.12.25`  2020年度智谱·AI人工智能技术发展报告集（AI TR）（敬请收藏）  **[[Link](https://mp.weixin.qq.com/s/fj73YsrKXI78bZFN6rx3vA)]** 
 
-  - `2021.02.23`  阿里达摩院发布2021十大科技趋势  **[[Link](https://damo.alibaba.com/techtrends/)]**
+  - ``  阿里达摩院发布2021十大科技趋势  **[[Link](https://damo.alibaba.com/techtrends/)]**
 
-  - `2021.02.23`  1694件AI事件大盘点！2020年最后一个月，哪些事让你记忆深刻？智谱·AI发展月报  **[[Link](https://mp.weixin.qq.com/s/q4UmkMfs_ZI6dnDfmBQdMQ)]**
+  - `2020.12.30`  1694件AI事件大盘点！2020年最后一个月，哪些事让你记忆深刻？丨智谱·AI发展月报  **[[Link](https://mp.weixin.qq.com/s/q4UmkMfs_ZI6dnDfmBQdMQ)]**
 
-  - `2021.02.23`  智源研究院发布2020年世界十大 AI 进展  **[[Link](https://mp.weixin.qq.com/s/IX1ZLrA-xJcwUqkq18NhfA)]**
+  - `2020.12.31`  智源研究院发布2020年世界十大 AI 进展  **[[Link](https://mp.weixin.qq.com/s/IX1ZLrA-xJcwUqkq18NhfA)]**
 
-  - `2021.02.23`  智能革命的开始！AI下一个十年，将变革人类医疗和艺术  **[[Link](https://mp.weixin.qq.com/s/jrZqCJPKpsw5nU7V1EdQYw)]** 
+  - `2021.01.04`  智能革命的开始！AI下一个十年，将变革人类医疗和艺术  **[[Link](https://mp.weixin.qq.com/s/jrZqCJPKpsw5nU7V1EdQYw)]** 
 
-  - `2021.02.23`  上海公布《关于全面推进上海城市数字化转型的意见》  **[[Link](https://mp.weixin.qq.com/s/vcRRPh8rq6Qn5U70r4oV7w)]**
+  - `2021.01.05`  上海公布《关于全面推进上海城市数字化转型的意见》  **[[Link](https://mp.weixin.qq.com/s/vcRRPh8rq6Qn5U70r4oV7w)]**
 
-  - `2021.02.23`  重磅丨中国工程院发布 “中国电子信息工程科技发展十四大趋势(2021)”  **[[Link](https://mp.weixin.qq.com/s/5Gkcik2qIAIRTdGcs4srHQ)]**
+  - `2021.01.05`  重磅丨中国工程院发布 “中国电子信息工程科技发展十四大趋势(2021)”  **[[Link](https://mp.weixin.qq.com/s/5Gkcik2qIAIRTdGcs4srHQ)]**
 
-  - `2021.02.23`  阿里巴巴人工智能实验室“黄”了  **[[Link](https://mp.weixin.qq.com/s/zC_kqTYcz67O1NNAF5ItWw)]**
+  - `2021.01.08`  阿里巴巴人工智能实验室“黄”了  **[[Link](https://mp.weixin.qq.com/s/zC_kqTYcz67O1NNAF5ItWw)]**
 
-  - `2021.02.23`  自然指数2020出炉：从机构合作网络看美加中日欧的AI研究差异  **[[Link](https://mp.weixin.qq.com/s/1PbPLSXh30ltvWU-JKfT-g)]**
+  - `2020.12.31`  自然指数2020出炉：从机构合作网络看美加中日欧的AI研究差异  **[[Link](https://mp.weixin.qq.com/s/1PbPLSXh30ltvWU-JKfT-g)]**
 
-  - `2021.02.23`  Jeff Dean万字长文：2020谷歌10大领域AI技术发展  **[[Link](https://mp.weixin.qq.com/s/LKaJYWsBIdXCErAyRGxtbQ)]** 
+  - `2021.01.17`  Jeff Dean万字长文：2020谷歌10大领域AI技术发展  **[[Link](https://mp.weixin.qq.com/s/LKaJYWsBIdXCErAyRGxtbQ)]** 
 
-  - `2021.02.23`  美国国防科研情报追踪系统发布，200余所最具国防科研实力的美高校尽收眼底！  **[[Link](https://mp.weixin.qq.com/s/1ooBscSATvrOgsBkVku5zA)]**  
+  - `2021.01.19`  美国国防科研情报追踪系统发布，200余所最具国防科研实力的美高校尽收眼底！  **[[Link](https://mp.weixin.qq.com/s/1ooBscSATvrOgsBkVku5zA)]**  
 
-  - `2021.02.23`  495篇新闻187个事件全景分析 | 智谱·AI人工智能发展月报（2021年1月）  **[[Link](https://mp.weixin.qq.com/s/c8h4_NyOwG09M-muP0oSRg)]** 
+  - `2021.01.31`  495篇新闻187个事件全景分析 | 智谱·AI人工智能发展月报（2021年1月）  **[[Link](https://mp.weixin.qq.com/s/c8h4_NyOwG09M-muP0oSRg)]** 
 
-  - `2021.02.23`  一句话总结英国新规：不欢迎AI专业的中国留学生、学者与研究员  **[[Link](https://mp.weixin.qq.com/s/KzAaVcE8Wb38E71n1w15UA)]** -
+  - `2021.02.02`  一句话总结英国新规：不欢迎AI专业的中国留学生、学者与研究员  **[[Link](https://mp.weixin.qq.com/s/KzAaVcE8Wb38E71n1w15UA)]** -
 
-  - `2021.02.23`  2020学术会议回顾：从这些最佳论文中一窥研究趋势  **[[Link](https://mp.weixin.qq.com/s/lyYeMmyi38vdo9IdUVV5BA)]**
+  - `2021.02.12`  2020学术会议回顾：从这些最佳论文中一窥研究趋势  **[[Link](https://mp.weixin.qq.com/s/lyYeMmyi38vdo9IdUVV5BA)]**
 
-  - `2021.02.23`  2020年AI顶会最全数据重磅出炉！看看我们挖出了什么宝藏  **[[Link](https://mp.weixin.qq.com/s/oJ-G1bVMuzAjmgUZcHSnhw)]** 
+  - `2021.02.13`  2020年AI顶会最全数据重磅出炉！看看我们挖出了什么宝藏  **[[Link](https://mp.weixin.qq.com/s/oJ-G1bVMuzAjmgUZcHSnhw)]** 
                                                                                                   
-  - `2021.02.23`  评选改变科学的10个计算机代码，arXiv、AlexNet等上榜  **[[Link](https://mp.weixin.qq.com/s/9X4CfSnz_rB5ZDWAYb5xTA)]** 
+  - `2021.02.14`  Nature评选改变科学的10个计算机代码，arXiv、AlexNet等上榜  **[[Link](https://mp.weixin.qq.com/s/9X4CfSnz_rB5ZDWAYb5xTA)]** 
 
   - `2021.02.23`  2021 年将是“人工智能硬件年”   **[[LINK](https://mp.weixin.qq.com/s/TiB-58Kxv2KLBbJBcr9cOQ)]**
                                                                                                            
   - `2021.02.28`  《麻省理工科技评论》2021 年 “十大突破性技术” 发布会在杭州余杭未来科技城圆满举办！   **[[LINK](https://mp.weixin.qq.com/s/wrhiSK9k2x2WiruiQin8bQ)]**    
                                                                                                  
-  - `2021.02.28`  李德毅院士 | 人工智能基础问题：机器能思维吗？   **[[LINK](https://mp.weixin.qq.com/s/xHHjyv2FLbPkZs6NTMtVaw)]** 
+  - `2022.06.21`  李德毅院士 | 人工智能基础问题：机器能思维吗？   **[[LINK](https://mp.weixin.qq.com/s/xHHjyv2FLbPkZs6NTMtVaw)]** 
 
-  - `2021.02.28`  LeCun用62页论文公布未来十年研究计划：AI自主智能   **[[LINK](https://mp.weixin.qq.com/s/o7_Dh5QNmR7kDdx_2LkCDg)]** 
+  - `2022.06.28`  LeCun用62页论文公布未来十年研究计划：AI自主智能   **[[LINK](https://mp.weixin.qq.com/s/o7_Dh5QNmR7kDdx_2LkCDg)]** 
 
-  - `2021.02.28`  先锋洞见 | 恒生研究院白硕：数据智能革命   **[[LINK](https://mp.weixin.qq.com/s/j9NncV59L7j8Lt8dYegxbw)]**                                                                                                                                   
-  - `2021.02.28`  MIT学者万字长文：计算机作为一种通用技术的衰落   **[[LINK](https://mp.weixin.qq.com/s/PGfygaKGUBA_4Kj2Wm4Rcw)]** 
+  - `2021.03.10`  先锋洞见 | 恒生研究院白硕：数据智能革命   **[[LINK](https://mp.weixin.qq.com/s/j9NncV59L7j8Lt8dYegxbw)]**                                                                                                                                   
+  - `2021.03.22`  MIT学者万字长文：计算机作为一种通用技术的衰落   **[[LINK](https://mp.weixin.qq.com/s/PGfygaKGUBA_4Kj2Wm4Rcw)]** 
                                                                                                                            
-  - `2021.02.28`  《2021科技趋势报告》重磅发布   **[[LINK](https://mp.weixin.qq.com/s/bvh3och_P6j3n8T_I6fQEQ)]** 
+  - `2021.03.24`  《2021科技趋势报告》重磅发布   **[[LINK](https://mp.weixin.qq.com/s/bvh3och_P6j3n8T_I6fQEQ)]** 
 
  
   - `2021.03.30` 专访唐杰 | 我国首个超大智能模型「悟道」发布，迎接基于模型的AI云时代  **[[Link](https://mp.weixin.qq.com/s/lsKVS_-aJSFf3shVx_ku7Q)]**    
