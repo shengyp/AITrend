@@ -126,13 +126,13 @@
   - `2021.04.02` 美国未就AI竞争做好准备；数学界“诺奖”揭晓；全球AI专利TOP10中国企业仅占两席|智谱・AI人工智能发展月报  **[[Link](https://mp.weixin.qq.com/s/rTWkEIibGCSj8PxnU4_qVQ)]**  
 
 
-  - `` 2021年人工智能全球最具影响力学者榜单AI 2000发布  **[[Link](https://mp.weixin.qq.com/s/21nqhQSWG1jrG0vj1T7mug)]**
+  - `2021.04.08` 2021年人工智能全球最具影响力学者榜单AI 2000发布  **[[Link](https://mp.weixin.qq.com/s/21nqhQSWG1jrG0vj1T7mug)]**
 
   
-  - `` 报告  **[[PDF](https://static.aminer.cn/misc/pdf/AI200021.pdf)]**
+  - `2021.04` 人工智能全球2000位最具影响力学者报告  **[[PDF](https://static.aminer.cn/misc/pdf/AI200021.pdf)]**
 
   
-  - `` 2021全球最具影响力 AI 学者榜单: 中国占比11.1%，位列第二  **[[Link](https://mp.weixin.qq.com/s/S24UD9A8ykgAevu09NfGVg)]** 
+  - `2021.04.08` 2021全球最具影响力 AI 学者榜单: 中国占比11.1%，位列第二  **[[Link](https://mp.weixin.qq.com/s/S24UD9A8ykgAevu09NfGVg)]** 
   
   
   - `` 麻省理工牛人解说数学体系  **[[Link](https://www.toutiao.com/i6743479520755450380/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617878041&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104081834010101502160911E0381E0&share_token=c954716a-47d9-4446-80f2-a09787655676&group_id=6743479520755450380)]** 
